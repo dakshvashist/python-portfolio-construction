@@ -1,5 +1,7 @@
 Sources:
 
+
+<li>https://pyquantnews.com/</li>
 <li>https://www.msci.com/documents/10199/8eaed6e4-9b11-8272-ed51-43685e0a789d</li>
 <li>https://www.msci.com/eqb/methodology/meth_docs/MSCI_USA_Momentum_SR_Variant_Index_Methodology_May2020.pdf</li>
 <li>https://medium.com/@jgbilsel/factor-portfolio-construction-python-7b94a4bad08d</li>
