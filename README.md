@@ -18,4 +18,5 @@ Sources:
 <li><a href='https://github.com/viniesposito/py-mlfactor'>Github - viniesposito/py-mlfactor</li>
 <li><a href='https://www.coursera.org/specializations/investment-management-python-machine-learning'>Coursera - Investment Management with Python and Machine Learning Specialization</li>
 <li><a href='https://github.com/PeterSchuld/EDHEC_Investment-Management-with-Python-and-Machine-Learning-'>Github - Coursera Investment Management with Python and Machine Learning Specialization course documented</li>
+<li><a href='https://www.youtube.com/playlist?list=PLcFcktZ0wnNnqefRpFMS1k9_VlhVw7bzc'>YouTube playlist - Python - Finance - Portfolio Optimization</li>
 </ol>
