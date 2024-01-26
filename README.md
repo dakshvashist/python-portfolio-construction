@@ -18,6 +18,4 @@ Sources:
 <li><a href='https://github.com/viniesposito/py-mlfactor'>Github - viniesposito/py-mlfactor</li>
 <li><a href='https://www.coursera.org/specializations/investment-management-python-machine-learning'>Coursera - Investment Management with Python and Machine Learning Specialization</li>
 <li><a href='https://github.com/PeterSchuld/EDHEC_Investment-Management-with-Python-and-Machine-Learning-'>Github - Coursera Investment Management with Python and Machine Learning Specialization course documented</li>
-<li><a href='https://medium.com/python-financial-analysis/python-financial-analysis-4-1-make-custom-market-index-2ce531fa007f'>Medium - #4.1 Make custom market index — prerequisites (Python Financial Analysis)</li>
-<li><a href='https://medium.com/python-financial-analysis/python-financial-analysis-4-2-custom-market-index-ef7873926034'>Medium - #4.2 Make custom market index — make your own index (Python Financial Analysis)</li>
 </ol>
