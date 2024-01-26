@@ -1,5 +1,5 @@
 Sources:
-<ul>
+<ol>
 <li><a href='https://pyquantnews.com/free-python-resources/getting-started-with-quant-finance/'>PyQuant News - Getting started with Quant Finance</li>
 <li><a href='https://pythonprogramming.net/finance-tutorials/'>PythonProgramming.net [Sentdex] - Python for Finance</li>
 <li><a href='https://www.msci.com/documents/10199/8eaed6e4-9b11-8272-ed51-43685e0a789d'>MSCI USA Momentum SR Variant Index</li>
@@ -17,5 +17,7 @@ Sources:
 <li><a href='https://github.com/shokru'>Github - Shokru 'Sustainable finance x Machine Learning'</li>
 <li><a href='https://github.com/viniesposito/py-mlfactor'>Github - viniesposito/py-mlfactor</li>
 <li><a href='https://www.coursera.org/specializations/investment-management-python-machine-learning'>Coursera - Investment Management with Python and Machine Learning Specialization</li>
-<li><a href=''>Github - Coursera Investment Management with Python and Machine Learning Specialization course documented</li>
-</ul>
+<li><a href='https://github.com/PeterSchuld/EDHEC_Investment-Management-with-Python-and-Machine-Learning-'>Github - Coursera Investment Management with Python and Machine Learning Specialization course documented</li>
+<li><a href='https://medium.com/python-financial-analysis/python-financial-analysis-4-1-make-custom-market-index-2ce531fa007f'>Medium - #4.1 Make custom market index — prerequisites (Python Financial Analysis)</li>
+<li><a href='https://medium.com/python-financial-analysis/python-financial-analysis-4-2-custom-market-index-ef7873926034'>Medium - #4.2 Make custom market index — make your own index (Python Financial Analysis)</li>
+</ol>
