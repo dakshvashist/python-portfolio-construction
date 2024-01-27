@@ -21,4 +21,5 @@ Sources:
 <li><a href='https://www.youtube.com/playlist?list=PLcFcktZ0wnNnqefRpFMS1k9_VlhVw7bzc'>YouTube playlist - Python - Finance - Portfolio Optimization</li>
 <li><a href = 'https://www.youtube.com/watch?v=Dm8GaSYZPF8'>YouTube - QuantStats: Portfolio Analytics with Python Tutorial</li>
 <li><a href='https://github.com/hackingthemarkets'>Github - hackingthemarkets (Python Finance: Good resource)</li>
+<li><a href='https://www.youtube.com/watch?v=n8N1KK_1T50'>YouTube - Value at Risk (VaR) In Python: Parametric Method</li>
 </ol>
