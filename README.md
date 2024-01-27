@@ -19,4 +19,6 @@ Sources:
 <li><a href='https://www.coursera.org/specializations/investment-management-python-machine-learning'>Coursera - Investment Management with Python and Machine Learning Specialization</li>
 <li><a href='https://github.com/PeterSchuld/EDHEC_Investment-Management-with-Python-and-Machine-Learning-'>Github - Coursera Investment Management with Python and Machine Learning Specialization course documented</li>
 <li><a href='https://www.youtube.com/playlist?list=PLcFcktZ0wnNnqefRpFMS1k9_VlhVw7bzc'>YouTube playlist - Python - Finance - Portfolio Optimization</li>
+<li><a href = 'https://www.youtube.com/watch?v=Dm8GaSYZPF8'>YouTube - QuantStats: Portfolio Analytics with Python Tutorial</li>
+<li><a href='https://github.com/hackingthemarkets'>Github - hackingthemarkets (Python Finance: Good resource)</li>
 </ol>
